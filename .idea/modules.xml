@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AsnycDemo/AsnycDemo.iml" filepath="$PROJECT_DIR$/AsnycDemo/AsnycDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decoratorDemo/decoratorDemo.iml" filepath="$PROJECT_DIR$/decoratorDemo/decoratorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/otherDemo/otherDemo.iml" filepath="$PROJECT_DIR$/otherDemo/otherDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/some_exercise.iml" filepath="$PROJECT_DIR$/some_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot/springBoot.iml" filepath="$PROJECT_DIR$/springBoot/springBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springDemo/springDemo.iml" filepath="$PROJECT_DIR$/springDemo/springDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springSecurityDemo/springSecurityDemo.iml" filepath="$PROJECT_DIR$/springSecurityDemo/springSecurityDemo.iml" />
+    </modules>
+  </component>
+</project>
